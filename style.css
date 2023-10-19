@@ -243,3 +243,12 @@ input[type="submit"]:hover {
   }
 }
 
+/* Para tablets */
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .caja{
+        font-size: 110%;
+    }
+ }
+
+
