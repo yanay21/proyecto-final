@@ -52,6 +52,18 @@ nav a:hover{
     height:auto;
 }
 
+.container{
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.container .content{
+position: absolute;
+top:0 ;
+width: 100%;
+color:#ffffff
+}
+
 footer{
     background-color: #141414;
     text-align: center;
