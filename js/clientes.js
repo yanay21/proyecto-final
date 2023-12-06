@@ -31,7 +31,7 @@ const { createApp } = Vue
                 })
             },
             eliminar(cliente) {
-                const url = this.url+'/' + producto;
+                const url = this.url+'/' + cliente;
                 var options = {
                     method: 'DELETE',
                 }
