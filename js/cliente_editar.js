@@ -12,7 +12,7 @@ const { createApp } = Vue
                 edad:0,
                 hijos:0,
                 
-                url:'http://yanay23.pythonanywhere.com/clientes'+id,
+                url:'https://yanay23.pythonanywhere.com/clientes'+id,
             }
         },
         methods: {
